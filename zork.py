@@ -36,7 +36,7 @@ elif input_1 == 'color':
     print(sam.color)
   if input == 'Luke':
     print(luke.color)
-  
+  #HAPPY
 
   
 
