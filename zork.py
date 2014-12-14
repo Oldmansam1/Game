@@ -26,12 +26,14 @@ if input_1 == 'species':
     print(luke.species)
 elif input_1 == 'legs':
   print('do you want to know about luke or Sam?')
+  input_1 = input('Type \'Luke\' or \'Sam\' to become an educated being: ')
   if input_1 == 'Sam':
     print(sam.legs)
   if input_1 == 'Luke':
     print(luke.legs)
 elif input_1 == 'color':
   print('do you want to know about luke or Sam?')
+  input_1 = input('Type \'Luke\' or \'Sam\' to become an educated being: ')
   if input_1 == 'Sam':
     print(sam.color)
   if input_1 == 'Luke':
