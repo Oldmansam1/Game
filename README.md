@@ -1,4 +1,4 @@
 Game
 ====
 
-Sam and Luke game.
+Sam and Luke game. It'll be awesome.
