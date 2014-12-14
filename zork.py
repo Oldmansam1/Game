@@ -11,8 +11,8 @@ luke = luke1('Doctor who fanatic', 2, 'white')
 sam = luke1('Wizzard', 2, 'Perfectly tanned')
 print('Lets learn about two muggles named Luke and Sam! Press enter to continue.')
 userName=raw_input();
-print "In this educational guide you must put everything you type in and capitalize the first letter of everything.Have much fun!!!{}.".format(userName)
-sys.stdout.flush()
+print "In this educational guide, you must put everything you type in\'\' and capitalize the first letter of everything.Have much fun!!!{}.".format(userName)
+sys.stdout.flush()greg
 time.sleep(6)
 print('Say \'Ok\' if you would like to continue')
 learn = input('Type here: ')
